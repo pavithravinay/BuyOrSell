@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Categories>
+	<ParentCategory id="1" name="Electronics">
+		<ChildCategory id="2">Smart Phones</ChildCategory>
+		<ChildCategory id="3">Laptops</ChildCategory>
+		<ChildCategory id="4">Tablets</ChildCategory>
+		<ChildCategory id="5">Cameras</ChildCategory>
+		<ChildCategory id="6">Accessories</ChildCategory>
+		<ChildCategory id="7">Sound</ChildCategory>
+		<ChildCategory id="8">Other</ChildCategory>
+	</ParentCategory>
+	<ParentCategory id="9" name="Furniture">
+		<ChildCategory id="10">Sofa</ChildCategory>
+		<ChildCategory id="11">Table</ChildCategory>
+		<ChildCategory id="12">Other</ChildCategory>
+	</ParentCategory>
+	<ParentCategory id="13" name="Bags">
+		<ChildCategory id="14">Handbags</ChildCategory>
+		<ChildCategory id="16">Other</ChildCategory>
+	</ParentCategory>
+	<ParentCategory id="17" name="Entertainment">
+		<ChildCategory id="18">Entertainment</ChildCategory>
+		<ChildCategory id="19">Other</ChildCategory>
+	</ParentCategory>
+	<ParentCategory id="20" name="Apparel">
+		<ChildCategory id="22">Pajamas</ChildCategory>
+		<ChildCategory id="23">Other</ChildCategory>
+	</ParentCategory>
+	<ParentCategory id="24" name="Makeup">
+		<ChildCategory id="25">Makeup</ChildCategory>
+		<ChildCategory id="26">Other</ChildCategory>
+	</ParentCategory>
+	<ParentCategory id="27" name="Books">
+		<ChildCategory id="28">Books</ChildCategory>
+		<ChildCategory id="29">Other</ChildCategory>
+	</ParentCategory>
+	<ParentCategory id="30" name="Others">
+		<ChildCategory id="32">Other</ChildCategory>
+	</ParentCategory>
+
+</Categories>

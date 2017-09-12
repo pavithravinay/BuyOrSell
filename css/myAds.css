@@ -1,0 +1,20 @@
+div.shopper-informations{
+	    margin-left: 30px;
+	      margin-right: 30px;
+}
+.custom_addclass{
+	    margin-left: 30px;
+	      margin-right: 30px;
+}
+
+.custom_newaddclass {
+	 margin-left: 50px;
+	 margin-right: 50px;
+}
+
+.custom_addressform {
+	    margin-left: 20px;
+	    padding: 20px;
+/*     background: #f3d9b7; */
+        background: #b1c0bf;
+}
